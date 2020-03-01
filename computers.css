@@ -1,0 +1,71 @@
+computers{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 800px;
+    padding: 0px 20px;
+    width: 50%;
+    margin: 0 auto;
+    background-color: #ebeff7;
+}
+
+basis{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+title{
+    font-size: 17px;
+    font-weight: 600;
+}
+
+desc{
+    display: block;
+}
+/* basis:after{
+    content: '&#xD;';
+} */
+
+intro{
+    font-size: 18px;
+}
+
+types{
+    margin-bottom: 20px;
+}
+
+type{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 25px;
+    padding: 20px;
+    transition: all ease-in-out 0.5s;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.3);
+}
+
+type:hover{
+    transform: scaleX(1.01);
+    box-shadow: 0 5px 15px rgba(241, 0, 0, 0.6);
+    border-radius: 0%;
+    cursor: url(lolno.cur),auto;;
+}
+
+
+features{
+    margin-top: 10px;
+}
+
+features ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+features:before{
+    content: "Features";
+    font: 17px;
+    font-weight: 600;
+}
