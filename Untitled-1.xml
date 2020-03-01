@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="computers.css"?>
+<computers>
+    <work id="work">
+        <basis>On the basis of work.</basis>
+        <intro>
+            <desc>There are three types of the computer on the basis of work. They are analog, digital, and hybrid computer.</desc>
+        </intro>
+        <types>
+            <type>
+                <title>Analog Computer:</title>
+                <typedesc>The computer that work with natural phenomena and physical values like earthquake measurement, speed of the wind, weight light etc is known as Analog computers. It is especially used in scientific work, medical and industrial field. These are special purpose computers. It measures physical values such as temperature or pressure that fall along a continuous scale in temperature or pressure. For example, you can see a system on petrol pump that contains an analog processor and analog device that converts flow of petrol into quantity. Speedometer in cars and your watch are other examples of analog computer.	
+	            </typedesc>
+                <features>
+                    <ul>
+                        <li>It is specific to the particular task so we cannot use it for multiple applications.</li>
+                        <li>It works on continuous data and gives continuous output.</li>
+                        <li>It works on real time and no storage capacity.</li>
+                        <li>It gives in the form of a graph, signals, table etc.</li>
+                    </ul>
+                </features>
+            </type>
+            <type>
+                <title>Digital Computer:</title>
+                <typedesc>A computer that work with digital value 0 and 1. Where 0 is OFF and 1 is ON. It works with discrete data. Digital computer does not measure the continuous data for continuous output. Most of the electronic system is based on the digital system. Digital computers are very popular for actual computers are very popular for actual computer works like preparation of the report, documentation, billing and other graphical work etc. The entire PC (Personal Computer) used today on different fields are digital computers.
+	            </typedesc>
+                <features>
+                    <ul>
+                        <li>It works on the discontinuous or discrete data.</li>
+                        <li>It is applicable for the general purpose so this is very versatile for the application.</li>
+                        <li>It is based on the digits 0 and 1.</li>
+                        <li>It is faster.</li>
+                        <li>It has storage section also.</li>
+                        <li>It is highly accurate and reliable than an analog system.</li>
+                    </ul>
+                </features>
+            </type>
+            <type>
+                <title>Hybrid computer:</title>
+                <typedesc>It is the combination of analog and digital computer system. It works with continuous and discrete value. The good qualities of analog and digital computers are combined on this computer and made the hybrid computer. These are used in ICU (Intensive Care Unit) of the hospital, jet planes, and other data analysis terminals. Hybrid computer transfers the data from analog to digital and digital to analog and vice-versa.
+	            </typedesc>
+                <features>
+                    <ul>
+                        <li>It is an expensive system.</li>
+                        <li>It is designed for a special purpose so it is not versatile.</li>
+                        <li>It works on discrete and continuous value.</li>
+                        <li>It has limited storage.</li>
+                        <li>It is complex than other computer systems.</li>
+                    </ul>
+                </features>
+            </type>
+        </types>
+    </work>
+    <size>
+        <basis>On the basis of size</basis>
+        <intro>
+            <desc>On the basis of size there are four types of computer. They are minicomputer , micro computer mainframe computer and super computer.</desc>
+        </intro>
+        <types>
+            <type>
+                <title>Super computer</title>
+                <typedesc>Super computer is the fastest, most expensive, big in size, and most powerful computer that can perform multiple tasks within no second. It has multi-user, multiprocessing, very high efficiency and large amount of storage capacity. It is called super computer because it can solve difficult and complex problem within a nano second. 
+	            </typedesc>
+                <features>
+                    <ul>
+                        <li>Used to forecast the weather and global climates</li>
+                        <li>Used in military research and defense systems</li>
+                        <li>Used in seismography, plasma and nuclear research</li>
+                        <li>Study of genetic engineering</li>
+                        <li>Digital film recording</li>
+                    </ul>
+                </features>
+            </type>
+            <type>
+                <title>Mainframe Computer</title>
+                <typedesc>Mainframe Computer is the large sized computer that covers about 1000 sq feet. It is general purpose computer that is designed to process large amount of data with very high speed. It accepts large amount of data from different terminals and multiple users and process them at same time. More than 100 users are allowed to work in this system. It is applicable for large organization with multi-users for example: large business organization, Department of examinations, Industries and defense to process data of complex nature. It uses several CPU for data processing.
+	            </typedesc>
+                <features>
+                    <ul>
+                        <li>Government and civilian</li>
+                        <li>Credit card processing</li>
+                        <li>Back Account management</li>
+                        <li>Marketing</li>
+                        <li>Business data processing in large organization</li>
+                        <li>Air traffic control system</li>
+                        <li>Industrial design</li>
+                    </ul>
+                </features>
+            </type>
+            <type>
+                <title>Minicomputer</title>
+                <typedesc>Mini Computers are medium sized computer. So, these are popular as middle ranged computer. It is also multiple user computer and supports more than dozen of people at a time. It is costlier than microcomputer.
+	            </typedesc>
+                <features>
+                    <ul>
+                        <li>used in university</li>
+                        <li>used in middle range business organizations</li>
+                        <li>used to process complex data used in scientific research </li>
+                        <li>used in instrumentation system</li>
+                        <li>used in engineering analysis</li>
+                        <li>used in industrial process monitoring and control</li>
+                    </ul>
+                </features>
+            </type>
+            <type>
+                <title>Microcomputer</title>
+                <typedesc>Most popular general purpose computers which are mostly used on day to day work are microcomputers. These are popular as Home PC or Personal Computer (PC) because these are single user computers and mostly used for personal use and application. These support many higher level application cost and easy in operation.
+	            </typedesc>
+                <features>
+                    <ul>
+                        <li>used for personal use.</li>
+                    </ul>
+                </features>
+            </type>
+        </types>
+    </size>
+    <brand>
+        <basis>On the basis of brands.</basis>
+        <intro>
+            <desc>IBM PC,IBM compatibles, apple computers are top branded computers.</desc>
+        </intro>
+        <types>
+            <type>
+                <title>IBM PC:</title>
+                <typedesc>It stands for International Business Machine Personal Computer and developed by IBM Company. It is commonly known as the IBM PC. IBM Company is the first company that manufactured computer. It was founded by a team of engineers and designers. It has given the new technology on the basis of Charles Babbage principal.
+	            </typedesc>
+                <features>
+                    The term compatible means 'Able to exist together and successfully'. IBM compatible computer system is assembled form of different components developed by different companies. It is based on IBM principle that can use standard hardware and software designed for the IBM PC and its own additional features.
+                </features>
+            </type>
+            <type>
+                <title>Apple computer:</title>
+                <typedesc>Computers developed by Apple Industry are apple computers. This used a standard microprocessor chips. The chip enabled them to put together a complete computer, a keyboard for input, and processors in memory and screen all in small box.
+	            </typedesc>
+                <features>
+                 Apple II is known as personal computer. IBM PC and its compatible version have largest scope in PC market. Most of the users of the world have IBM PC than these computers but Apple has its own users, mostly people interested in graphic works, documentation and publishing sectors.
+                </features>
+            </type>
+            <type>
+                <title>Hybrid computer:</title>
+                <typedesc>It is the combination of analog and digital computer system. It works with continuous and discrete value. The good qualities of analog and digital computers are combined on this computer and made the hybrid computer. These are used in ICU (Intensive Care Unit) of the hospital, jet planes, and other data analysis terminals. Hybrid computer transfers the data from analog to digital and digital to analog and vice-versa.
+	            </typedesc>
+                <features>
+                    <ul>
+                        <li>It is an expensive system.</li>
+                        <li>It is designed for a special purpose so it is not versatile.</li>
+                        <li>It works on discrete and continuous value.</li>
+                        <li>It has limited storage.</li>
+                        <li>It is complex than other computer systems.</li>
+                    </ul>
+                </features>
+            </type>
+        </types>
+    </brand>
+</computers>
+<!-- <script xmlns="http://www.w3.org/1999/xhtml"><![CDATA[
+    xmlDoc.getElementById('test').onclick(function(){
+        alert();
+    })
+]]></script> -->
